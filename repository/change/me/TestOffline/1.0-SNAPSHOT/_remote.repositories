@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 09 21:00:37 IDT 2021
+TestOffline-1.0-SNAPSHOT.jar>=
+TestOffline-1.0-SNAPSHOT.pom>=
+TestOffline-1.0-SNAPSHOT-jar-with-dependencies.jar>=
